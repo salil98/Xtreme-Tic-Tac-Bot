@@ -2,4 +2,4 @@
 This project is a part of the Artificial Intelligence course and it is implemented in python language.
 
 
-Team Name - Gamma Bot
+Team Name - Gamma Bot(Rank - 4th in the whole batch) 
